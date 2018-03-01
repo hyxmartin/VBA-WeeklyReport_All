@@ -1,0 +1,12 @@
+2016-03-02 22:43:31 
+2016-03-02 22:43:32 Auto Running
+2016-03-02 22:43:34 WeeklyReport_All started
+2016-03-02 22:43:34 
+2016-03-02 22:43:34 Running Query: 1-02a Delete RawData
+2016-03-02 22:43:34 Running Query: 1-02b Delete FinalData
+2016-03-02 22:43:34 Running Query: 1-03a Get Data - User Registration
+2016-03-02 22:44:19 
+2016-03-02 22:44:25 WeeklyReport_All started
+2016-03-02 22:44:25 
+2016-03-02 22:44:25 Running Query: 1-02b Delete FinalData
+2016-03-02 22:44:25 Running Query: 1-03a Get Data - User Registration

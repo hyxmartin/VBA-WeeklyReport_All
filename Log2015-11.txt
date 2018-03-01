@@ -1,0 +1,241 @@
+2015-11-06 19:10:24 
+2015-11-06 19:10:24 Auto Running
+2015-11-06 19:10:26 WeeklyReport_All started
+2015-11-06 19:10:26 
+2015-11-06 19:10:26 Running Query: 1-02a Delete RawData
+2015-11-06 19:10:26 Running Query: 1-02b Delete FinalData
+2015-11-06 19:10:26 Running Query: 1-03a Get Data - User Registration
+2015-11-06 19:10:38 Running Query: 1-03b Get Data - User Registration - Weibo
+2015-11-06 19:10:42 Running Query: 1-03c Get Data - User Registration - Weixin
+2015-11-06 19:10:45 Running Query: 1-03d Get Data - User Query
+2015-11-06 19:10:50 Running Query: 1-05 Output
+2015-11-06 19:10:51 Copying Template...
+2015-11-06 19:10:51 Template Copied
+2015-11-06 19:10:51 Transferring Data
+2015-11-06 19:10:54 Data Transferred
+2015-11-06 19:10:56 Updating PivotTable...
+2015-11-06 19:10:56 -> Preparing Data...
+2015-11-06 19:10:56 -> Updating PivotTable Data...
+2015-11-06 19:11:02 PivotTable Updated
+2015-11-06 19:11:02 Running Query: 2-02a Delete RawData1
+2015-11-06 19:11:02 Running Query: 2-02b Delete RawData2
+2015-11-06 19:11:02 Running Query: 2-02c Delete RawData3
+2015-11-06 19:11:02 Running Query: 2-02d Delete FinalData
+2015-11-06 19:11:02 Running Query: 2-03a Get Data - Query Analysis
+2015-11-06 19:11:08 Running Query: 2-03b Get Data - Query Reply
+2015-11-06 19:11:50 Running Query: 2-03c Get Data - Get User Name
+2015-11-06 19:11:52 Running Query: 2-05 Output
+2015-11-06 19:11:52 Copying Template...
+2015-11-06 19:11:52 Template Copied
+2015-11-06 19:11:52 Transferring Data
+2015-11-06 19:11:52 Data Transferred
+2015-11-06 19:11:54 Updating PivotTable...
+2015-11-06 19:11:54 -> Preparing Data...
+2015-11-06 19:11:54 -> Updating PivotTable Data...
+2015-11-06 19:11:55 PivotTable Updated
+2015-11-06 19:11:55 Running Query: 3-02a Delete RawData
+2015-11-06 19:11:55 Running Query: 3-02b Delete FinalData
+2015-11-06 19:11:55 Running Query: 3-03a Get Data - Query Category
+2015-11-06 19:12:03 Running Query: 3-05 Output
+2015-11-06 19:12:03 Transferring Data
+2015-11-06 19:12:04 Data Transferred
+2015-11-06 19:12:05 Updating PivotTable...
+2015-11-06 19:12:05 -> Preparing Data...
+2015-11-06 19:12:05 -> Updating PivotTable Data...
+2015-11-06 19:12:06 PivotTable Updated
+2015-11-06 19:12:06 Running Query: 4-02a Delete RawData
+2015-11-06 19:12:06 Running Query: 4-02b Delete FinalData
+2015-11-06 19:12:06 Running Query: 4-03 Get Data - Transaction Type
+2015-11-06 19:12:32 Running Query: 4-05 Output
+2015-11-06 19:12:33 Copying Template...
+2015-11-06 19:12:33 Template Copied
+2015-11-06 19:12:33 Transferring Data
+2015-11-06 19:12:38 Data Transferred
+2015-11-06 19:12:41 Updating PivotTable...
+2015-11-06 19:12:41 -> Preparing Data...
+2015-11-06 19:12:41 -> Updating PivotTable Data...
+2015-11-06 19:12:42 PivotTable Updated
+2015-11-06 19:12:52 Sendmail WeeklyReport_All
+2015-11-06 19:12:52 WeeklyReport_All exited
+2015-11-06 19:12:52 ===================================
+2015-11-13 14:41:20 
+2015-11-13 14:44:02 
+2015-11-13 14:44:02 Auto Running
+2015-11-13 14:44:03 WeeklyReport_All started
+2015-11-13 14:44:03 
+2015-11-13 14:44:03 Running Query: 1-02a Delete RawData
+2015-11-13 14:44:03 Running Query: 1-02b Delete FinalData
+2015-11-13 14:44:03 Running Query: 1-03a Get Data - User Registration
+2015-11-13 14:44:16 Running Query: 1-03b Get Data - User Registration - Weibo
+2015-11-13 14:44:20 Running Query: 1-03c Get Data - User Registration - Weixin
+2015-11-13 14:44:25 Running Query: 1-03d Get Data - User Query
+2015-11-13 14:44:31 Running Query: 1-05 Output
+2015-11-13 14:44:32 Copying Template...
+2015-11-13 14:44:32 Template Copied
+2015-11-13 14:44:32 Transferring Data
+2015-11-13 14:44:38 Data Transferred
+2015-11-13 14:44:47 Updating PivotTable...
+2015-11-13 14:44:48 -> Preparing Data...
+2015-11-13 14:44:48 -> Updating PivotTable Data...
+2015-11-13 14:45:02 PivotTable Updated
+2015-11-13 14:45:02 Running Query: 2-02a Delete RawData1
+2015-11-13 14:45:02 Running Query: 2-02b Delete RawData2
+2015-11-13 14:45:02 Running Query: 2-02c Delete RawData3
+2015-11-13 14:45:02 Running Query: 2-02d Delete FinalData
+2015-11-13 14:45:03 Running Query: 2-03a Get Data - Query Analysis
+2015-11-13 14:45:09 Running Query: 2-03b Get Data - Query Reply
+2015-11-13 14:46:15 Running Query: 2-03c Get Data - Get User Name
+2015-11-13 14:46:19 Running Query: 2-05 Output
+2015-11-13 14:46:19 Copying Template...
+2015-11-13 14:46:19 Template Copied
+2015-11-13 14:46:19 Transferring Data
+2015-11-13 14:46:20 Data Transferred
+2015-11-13 14:46:23 Updating PivotTable...
+2015-11-13 14:46:23 -> Preparing Data...
+2015-11-13 14:46:23 -> Updating PivotTable Data...
+2015-11-13 14:46:25 PivotTable Updated
+2015-11-13 14:46:25 Running Query: 3-02a Delete RawData
+2015-11-13 14:46:25 Running Query: 3-02b Delete FinalData
+2015-11-13 14:46:25 Running Query: 3-03a Get Data - Query Category
+2015-11-13 14:46:34 Running Query: 3-05 Output
+2015-11-13 14:46:34 Transferring Data
+2015-11-13 14:46:35 Data Transferred
+2015-11-13 14:46:37 Updating PivotTable...
+2015-11-13 14:46:37 -> Preparing Data...
+2015-11-13 14:46:37 -> Updating PivotTable Data...
+2015-11-13 14:46:40 PivotTable Updated
+2015-11-13 14:46:40 Running Query: 4-02a Delete RawData
+2015-11-13 14:46:40 Running Query: 4-02b Delete FinalData
+2015-11-13 14:46:40 Running Query: 4-03 Get Data - Transaction Type
+2015-11-13 14:47:32 Running Query: 4-05 Output
+2015-11-13 14:47:35 Copying Template...
+2015-11-13 14:47:35 Template Copied
+2015-11-13 14:47:35 Transferring Data
+2015-11-13 14:47:47 Data Transferred
+2015-11-13 14:47:53 Updating PivotTable...
+2015-11-13 14:47:53 -> Preparing Data...
+2015-11-13 14:47:53 -> Updating PivotTable Data...
+2015-11-13 14:47:56 PivotTable Updated
+2015-11-13 14:48:07 Sendmail WeeklyReport_All
+2015-11-13 14:48:07 WeeklyReport_All exited
+2015-11-13 14:48:07 ===================================
+2015-11-20 15:04:29 
+2015-11-20 15:04:29 Auto Running
+2015-11-20 15:04:30 WeeklyReport_All started
+2015-11-20 15:04:30 
+2015-11-20 15:04:30 Running Query: 1-02a Delete RawData
+2015-11-20 15:04:31 Running Query: 1-02b Delete FinalData
+2015-11-20 15:04:31 Running Query: 1-03a Get Data - User Registration
+2015-11-20 15:04:48 Running Query: 1-03b Get Data - User Registration - Weibo
+2015-11-20 15:04:53 Running Query: 1-03c Get Data - User Registration - Weixin
+2015-11-20 15:04:57 Running Query: 1-03d Get Data - User Query
+2015-11-20 15:05:09 Running Query: 1-05 Output
+2015-11-20 15:05:10 Copying Template...
+2015-11-20 15:05:10 Template Copied
+2015-11-20 15:05:10 Transferring Data
+2015-11-20 15:05:12 Data Transferred
+2015-11-20 15:05:14 Updating PivotTable...
+2015-11-20 15:05:14 -> Preparing Data...
+2015-11-20 15:05:14 -> Updating PivotTable Data...
+2015-11-20 15:05:17 PivotTable Updated
+2015-11-20 15:05:17 Running Query: 2-02a Delete RawData1
+2015-11-20 15:05:17 Running Query: 2-02b Delete RawData2
+2015-11-20 15:05:17 Running Query: 2-02c Delete RawData3
+2015-11-20 15:05:17 Running Query: 2-02d Delete FinalData
+2015-11-20 15:05:17 Running Query: 2-03a Get Data - Query Analysis
+2015-11-20 15:05:22 Running Query: 2-03b Get Data - Query Reply
+2015-11-20 15:08:48 Running Query: 2-03c Get Data - Get User Name
+2015-11-20 15:08:54 Running Query: 2-05 Output
+2015-11-20 15:08:54 Copying Template...
+2015-11-20 15:08:54 Template Copied
+2015-11-20 15:08:54 Transferring Data
+2015-11-20 15:08:54 Data Transferred
+2015-11-20 15:08:56 Updating PivotTable...
+2015-11-20 15:08:56 -> Preparing Data...
+2015-11-20 15:08:56 -> Updating PivotTable Data...
+2015-11-20 15:08:57 PivotTable Updated
+2015-11-20 15:08:57 Running Query: 3-02a Delete RawData
+2015-11-20 15:08:57 Running Query: 3-02b Delete FinalData
+2015-11-20 15:08:57 Running Query: 3-03a Get Data - Query Category
+2015-11-20 15:09:04 Running Query: 3-05 Output
+2015-11-20 15:09:05 Transferring Data
+2015-11-20 15:09:05 Data Transferred
+2015-11-20 15:09:06 Updating PivotTable...
+2015-11-20 15:09:06 -> Preparing Data...
+2015-11-20 15:09:06 -> Updating PivotTable Data...
+2015-11-20 15:09:08 PivotTable Updated
+2015-11-20 15:09:08 Running Query: 4-02a Delete RawData
+2015-11-20 15:09:08 Running Query: 4-02b Delete FinalData
+2015-11-20 15:09:08 Running Query: 4-03 Get Data - Transaction Type
+2015-11-20 15:10:08 Running Query: 4-05 Output
+2015-11-20 15:10:10 Copying Template...
+2015-11-20 15:10:10 Template Copied
+2015-11-20 15:10:10 Transferring Data
+2015-11-20 15:10:17 Data Transferred
+2015-11-20 15:10:20 Updating PivotTable...
+2015-11-20 15:10:20 -> Preparing Data...
+2015-11-20 15:10:20 -> Updating PivotTable Data...
+2015-11-20 15:10:22 PivotTable Updated
+2015-11-20 15:11:19 Sendmail WeeklyReport_All
+2015-11-20 15:11:19 WeeklyReport_All exited
+2015-11-20 15:11:19 ===================================
+2015-11-27 14:40:43 
+2015-11-27 14:40:43 Auto Running
+2015-11-27 14:40:44 WeeklyReport_All started
+2015-11-27 14:40:44 
+2015-11-27 14:40:44 Running Query: 1-02a Delete RawData
+2015-11-27 14:40:45 Running Query: 1-02b Delete FinalData
+2015-11-27 14:40:45 Running Query: 1-03a Get Data - User Registration
+2015-11-27 14:41:01 Running Query: 1-03b Get Data - User Registration - Weibo
+2015-11-27 14:41:06 Running Query: 1-03c Get Data - User Registration - Weixin
+2015-11-27 14:41:14 Running Query: 1-03d Get Data - User Query
+2015-11-27 14:41:25 Running Query: 1-05 Output
+2015-11-27 14:41:26 Copying Template...
+2015-11-27 14:41:26 Template Copied
+2015-11-27 14:41:26 Transferring Data
+2015-11-27 14:41:29 Data Transferred
+2015-11-27 14:41:31 Updating PivotTable...
+2015-11-27 14:41:31 -> Preparing Data...
+2015-11-27 14:41:31 -> Updating PivotTable Data...
+2015-11-27 14:41:34 PivotTable Updated
+2015-11-27 14:41:34 Running Query: 2-02a Delete RawData1
+2015-11-27 14:41:34 Running Query: 2-02b Delete RawData2
+2015-11-27 14:41:35 Running Query: 2-02c Delete RawData3
+2015-11-27 14:41:35 Running Query: 2-02d Delete FinalData
+2015-11-27 14:41:35 Running Query: 2-03a Get Data - Query Analysis
+2015-11-27 14:41:40 Running Query: 2-03b Get Data - Query Reply
+2015-11-27 14:42:38 Running Query: 2-03c Get Data - Get User Name
+2015-11-27 14:42:39 Running Query: 2-05 Output
+2015-11-27 14:42:39 Copying Template...
+2015-11-27 14:42:39 Template Copied
+2015-11-27 14:42:39 Transferring Data
+2015-11-27 14:42:40 Data Transferred
+2015-11-27 14:42:42 Updating PivotTable...
+2015-11-27 14:42:42 -> Preparing Data...
+2015-11-27 14:42:42 -> Updating PivotTable Data...
+2015-11-27 14:42:44 PivotTable Updated
+2015-11-27 14:42:44 Running Query: 3-02a Delete RawData
+2015-11-27 14:42:44 Running Query: 3-02b Delete FinalData
+2015-11-27 14:42:44 Running Query: 3-03a Get Data - Query Category
+2015-11-27 14:42:48 Running Query: 3-05 Output
+2015-11-27 14:42:48 Transferring Data
+2015-11-27 14:42:49 Data Transferred
+2015-11-27 14:42:50 Updating PivotTable...
+2015-11-27 14:42:50 -> Preparing Data...
+2015-11-27 14:42:50 -> Updating PivotTable Data...
+2015-11-27 14:42:52 PivotTable Updated
+2015-11-27 14:42:52 Running Query: 4-02a Delete RawData
+2015-11-27 14:42:52 Running Query: 4-02b Delete FinalData
+2015-11-27 14:42:52 Running Query: 4-03 Get Data - Transaction Type
+2015-11-27 14:43:17 Running Query: 4-05 Output
+2015-11-27 14:43:19 Copying Template...
+2015-11-27 14:43:19 Template Copied
+2015-11-27 14:43:19 Transferring Data
+2015-11-27 14:43:26 Data Transferred
+2015-11-27 14:43:30 Updating PivotTable...
+2015-11-27 14:43:30 -> Preparing Data...
+2015-11-27 14:43:30 -> Updating PivotTable Data...
+2015-11-27 14:43:32 PivotTable Updated
+2015-11-27 14:43:43 Sendmail WeeklyReport_All
+2015-11-27 14:43:43 WeeklyReport_All exited
+2015-11-27 14:43:43 ===================================

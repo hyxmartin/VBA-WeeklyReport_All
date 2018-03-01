@@ -1,0 +1,14 @@
+TRACE C:\Users\Martin\Desktop\Report\WeeklyReport_All\FTPTrace2015-06.txt
+ONERROR GOTO ERR1
+Connect ftp.whopawho.org
+CD FTPTEST
+LCD C:\Users\Martin\Desktop\Report\WeeklyReport_All
+PUT "Weekly Report UserBehavior - Jun122015.xlsx"
+PUT "Weekly Report QueryAnalysis - Jun122015.xlsx"
+PUT "Weekly Report TransactionType - Jun122015.xlsx"
+CLOSE
+SHELL "C:\Users\Martin\Desktop\Report\WeeklyReport_All\FTPDone.cmd"
+GOTO END1
+LABEL ERR1
+SHELL "C:\Users\Martin\Desktop\Report\WeeklyReport_All\FTPFail.cmd"
+LABEL END1
